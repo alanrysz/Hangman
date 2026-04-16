@@ -1,3 +1,3 @@
 # Hangman
 ## UML Diagram
-![UML](docs/uml.png)
+![UML](Diagrama de clases - Sweet Medical.png)
